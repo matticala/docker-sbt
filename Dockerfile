@@ -1,4 +1,4 @@
-FROM matticala/docker-scala:2.12
+FROM matticala/docker-scala:latest
 
 ENV LANG C.UTF-8
 
